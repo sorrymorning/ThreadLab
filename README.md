@@ -17,7 +17,7 @@ https://github.com/sorrymorning/ThreadLab/blob/main/ThreadLab/Program.cs
 ![Вывод программы](https://github.com/sorrymorning/ThreadLab/blob/main/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8.png)
 ## Задание 2
 https://github.com/sorrymorning/ThreadLab/blob/main/UsingSemaphore/Program.cs
-# README.md
+# 
 
 ## Описание
 Данный проект на C# демонстрирует использование семафоров для управления доступом нескольких потоков к общему ресурсу. В программе создаются пять потоков, представляющих читателей, которые одновременно могут находиться в библиотеке.
